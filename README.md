@@ -1,2 +1,3 @@
 # IOT_Demo
-Automation demonstration
+Automation demonstration using python and packet tracer simulation.
+
